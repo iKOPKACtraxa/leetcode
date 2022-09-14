@@ -1,4 +1,4 @@
-module github.com/iKOPKACtraxa/leetcode/sumOfTwo
+module github.com/iKOPKACtraxa/leetcode
 
 go 1.17
 
