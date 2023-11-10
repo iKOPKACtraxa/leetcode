@@ -1,4 +1,4 @@
-package sumOfTwo
+package addtwointegers
 
 import (
 	"testing"

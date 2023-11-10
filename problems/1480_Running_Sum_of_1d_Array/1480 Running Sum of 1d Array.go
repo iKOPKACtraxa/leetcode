@@ -6,3 +6,6 @@ func runningSum(nums []int) []int {
 	}
 	return nums
 }
+
+// Time complexity: O(n)
+// Space complexity: O(1)
